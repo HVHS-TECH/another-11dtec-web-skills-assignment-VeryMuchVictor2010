@@ -1,3 +1,9 @@
 body {
     background-color: rgb(148, 227, 253);
+    header{
+      background-color: aquamarine;
+    }
+    nav{
+      
+    }
   }
